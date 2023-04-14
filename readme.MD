@@ -3,14 +3,14 @@ I learned some new skills with javascript and react.
 
 > FARM Stack: FastAPI, React, MongoDB
 
-    FastAPI
-    : Python based API generator that helped me build the pat-fastapi program
+FastAPI
+: Python based API generator that helped me build the pat-fastapi program
 
-    React
-    : Hell spawn the is so goddamn confusing as a non web developer that I will likely need to spend a bunch of time to really get my head around it all.
+React
+: Hell spawn the is so goddamn confusing as a non web developer that I will likely need to spend a bunch of time to really get my head around it all.
 
-    MongoDB
-    : Propritary NOSql database
+MongoDB
+: Propritary NOSql database
 
 ## Details
 Video and content by Bek Brace and FreeCodeCamp.org
